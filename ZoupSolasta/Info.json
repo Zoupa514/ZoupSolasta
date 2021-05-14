@@ -1,0 +1,12 @@
+{
+	"Id": "ZoupSolasta",
+	"DisplayName": "ZoupSolasta",
+	"Author": "Zoupa514",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": ["SolastaModApi"],
+	"AssemblyName": "ZoupSolasta.dll",
+	"EntryMethod": "ZoupSolasta.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/Zoupa514/ZoupSolasta/main/ZoupSolasta/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
