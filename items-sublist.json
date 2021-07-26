@@ -1,0 +1,100 @@
+{
+	"fileType": "items-sublist",
+	"siteVersion": "1.132.3",
+	"items": [
+		{
+			"h": "badge%20of%20the%20watch_wdh",
+			"c": 1
+		},
+		{
+			"h": "armor%20of%20resistance_dmg",
+			"c": 1
+		},
+		{
+			"h": "acheron%20blade_egw",
+			"c": 1
+		},
+		{
+			"h": "%2b2%20amulet%20of%20the%20devout_tce",
+			"c": 1
+		},
+		{
+			"h": "boots%20of%20speed_dmg",
+			"c": 1
+		},
+		{
+			"h": "bracers%20of%20defense_dmg",
+			"c": 1
+		},
+		{
+			"h": "butcher's%20bib_egw",
+			"c": 1
+		},
+		{
+			"h": "cape%20of%20the%20mountebank_dmg",
+			"c": 1
+		},
+		{
+			"h": "censer%20of%20controlling%20air%20elementals_dmg",
+			"c": 1
+		},
+		{
+			"h": "dragontooth%20dagger_rot",
+			"c": 1
+		},
+		{
+			"h": "ioun%20stone_llk",
+			"c": 1
+		},
+		{
+			"h": "mantle%20of%20spell%20resistance_dmg",
+			"c": 1
+		},
+		{
+			"h": "mizzium%20armor_ggr",
+			"c": 1
+		},
+		{
+			"h": "potion%20of%20frost%20giant%20strength_dmg",
+			"c": 1
+		},
+		{
+			"h": "potion%20of%20superior%20healing_dmg",
+			"c": 1
+		},
+		{
+			"h": "quaal's%20feather%20token%2c%20whip_dmg",
+			"c": 1
+		},
+		{
+			"h": "ring%20of%20evasion_dmg",
+			"c": 1
+		},
+		{
+			"h": "sunforger_ggr",
+			"c": 1
+		},
+		{
+			"h": "the%20queen's%20feather_p4535992items",
+			"c": 1
+		},
+		{
+			"h": "vicious%20greatsword_dmg",
+			"c": 1
+		},
+		{
+			"h": "wand%20of%20binding_dmg",
+			"c": 1
+		}
+	],
+	"sources": [
+		"WDH",
+		"DMG",
+		"EGW",
+		"TCE",
+		"RoT",
+		"LLK",
+		"GGR",
+		"p4535992Items"
+	]
+}
